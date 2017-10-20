@@ -9,7 +9,7 @@ int main()
         vector <vector <char> > starBro;
         int row, col;
 
-        cout<< "Enter row and columns of stars:" <<endl;
+        cout<< "Enter rows and columns of stars:" <<endl;
         cin>> row;
         
         if (row < 1) return 0;
